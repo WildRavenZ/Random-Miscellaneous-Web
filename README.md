@@ -57,7 +57,7 @@ Es posible que, debido a que la API se encuentra hosteada en Render de manera gr
 Este proyecto está bajo la licencia [MIT](LICENSE).
 
 ## 📈 Estado del proyecto
-### 1.0.0:
+### 1.0.0 (Versión actual):
 - Sitio web creado y hosteado en Github pages.
 
 ## 🙋‍♂️ Autores y contribuidores
