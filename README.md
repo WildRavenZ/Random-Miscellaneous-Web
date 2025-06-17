@@ -5,12 +5,16 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.3-purple?logo=bootstrap)
 ![API](https://img.shields.io/badge/API-RESTful-brightgreen)
-![Estado](https://img.shields.io/badge/Frontend-Integrado-success)
+![Estado](https://img.shields.io/badge/GitHubPages-Live-success)
 
 Random Miscellaneous Web es un sitio web para la generación de eventos aleatorios. Desde elementos simples como números, letras y decisiones, hasta coordenadas, colores y simulaciones. Este es un proyecto de código abierto; siéntete libre de usar y modificar el código a tu gusto. Cualquier aportación es altamente apreciada.
 
 Este proyecto web está desarrollado como una interfaz visual para consumir la [RandomMiscellaneousAPI](https://randommiscellanousapi.onrender.com/apidocs/), permitiendo a los usuarios generar elementos aleatorios de manera interactiva, atractiva y amigable.  
 Su propósito es facilitar pruebas, juegos, actividades educativas y simulaciones directamente desde el navegador.
+
+## 🔗 Enlace al sitio web hosteado en GitHub Pages
+
+- https://wildravenz.github.io/Random-Miscellaneous-Web/
 
 ## 🎯 Características principales
 
@@ -51,14 +55,14 @@ Su propósito es facilitar pruebas, juegos, actividades educativas y simulacione
 Simplemente abre el archivo HTML en un navegador moderno.  
 No requiere instalación ni entorno de desarrollo, ya que todo se ejecuta desde el cliente y se comunica con la API pública.
 
-Es posible que, debido a que la API se encuentra hosteada en Render de manera gratuita, puede haber cierto tiempo de espera antes de que se ejecute alguna función por primera vez cada 10 minutos.
+**Es posible que, debido a que la API se encuentra hosteada en Render de manera gratuita, puede haber cierto tiempo de espera antes de que se ejecute alguna función por primera vez cada 10 minutos.**
 
 ## ⚖ Licencia
 Este proyecto está bajo la licencia [MIT](LICENSE).
 
 ## 📈 Estado del proyecto
 ### 1.0.0 (Versión actual):
-- Sitio web creado y hosteado en Github pages.
+- Sitio web creado y hosteado en GitHub Pages.
 
 ## 🙋‍♂️ Autores y contribuidores
 - Fernando Franco Zago (Autor) [Github](https://github.com/WildRavenZ) y [LinkedIn](https://www.linkedin.com/in/fernando-franco-zago-066840313/).
