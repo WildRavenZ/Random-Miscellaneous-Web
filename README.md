@@ -1,4 +1,4 @@
-![Random-Miscellaneous-Web](https://github.com/WildRavenZ/Random-Miscellaneous-Web/blob/master/Backend/imgs/Otras/icon.png)
+![Random-Miscellaneous-Web](Backend/imgs/Otras/icon.png)
 
 # 🌐 Random Miscellaneous Web [1.0.0]
 
