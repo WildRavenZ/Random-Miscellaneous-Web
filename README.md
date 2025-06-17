@@ -1,5 +1,3 @@
-![Random-Miscellaneous-Web](Backend/imgs/Otras/icon.ico)
-
 # 🌐 Random Miscellaneous Web [1.0.0]
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)
