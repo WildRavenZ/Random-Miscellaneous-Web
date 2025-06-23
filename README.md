@@ -65,7 +65,7 @@ No requiere instalación ni entorno de desarrollo, ya que todo se ejecuta desde 
 Este proyecto está bajo la licencia [MIT](LICENSE).
 
 ## 📈 Estado del proyecto
-### 1.1.0 (Versión actual)
+### 1.1.0 (Versión actual):
 - Ya estan disponibles las nuevas funciones de la API, tales como:
     - Nombre aleatorio.
     - Emoji aleatorio.
