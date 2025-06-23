@@ -1,4 +1,4 @@
-# 🌐 Random Miscellaneous Web [1.0.0]
+# 🌐 Random Miscellaneous Web [1.1.0]
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)
@@ -40,11 +40,15 @@ Su propósito es facilitar pruebas, juegos, actividades educativas y simulacione
 - 🎲 **Lanzamiento de dados:** Muestra imágenes por número generado.
 - 🟡 **Lanzamiento de moneda:** Cara o cruz, visualmente representados.
 - 🃏 **Baraja de cartas:** Distribución por manos con imágenes por carta.
+- 👨‍👦 **Nombres aleatorios:** Nombres comunes generados de manera aleatoria.
 - 🔤 **Contraseñas seguras:** Generación segura y configurable.
 - 🅰 **Letra aleatoria:** De la A a la Z.
+- 🔣 **Carácter aleatorio:** Según el formato [ASCII](https://elcodigoascii.com.ar/).
+- 😁 **Emoji aleatorio:** De los que se encuentra al realizar `Win + .`.
 - 🧠 **Piedra, papel o tijera:** Resultado como emoji.
 - 🎨 **Color aleatorio:** Visualización de color generado en tarjetas.
 - 📍 **Coordenadas aleatorias:** Incluyen enlaces a Google Maps.
+- 🌎 **País aleatorio:** Más de 200 países incluidos.
 - 📆 **Fecha aleatoria:** Aleatoriamente entre dos rangos de fechas.
 - 🕒 **Hora aleatoria:** Aleatoriamente entre dos rangos de horas.
 - ✅ **Decisiones aleatorias:** Varias decisiones tipo sí/no.
@@ -61,8 +65,17 @@ No requiere instalación ni entorno de desarrollo, ya que todo se ejecuta desde 
 Este proyecto está bajo la licencia [MIT](LICENSE).
 
 ## 📈 Estado del proyecto
-### 1.0.0 (Versión actual):
+### 1.1.0 (Versión actual)
+- Ya estan disponibles las nuevas funciones de la API, tales como:
+    - Nombre aleatorio.
+    - Emoji aleatorio.
+    - Carácter aleatorio.
+    - País aleatorio.
+- Se ha cambiado la documentación y el README.
+### 1.0.0:
 - Sitio web creado y hosteado en GitHub Pages.
 
 ## 🙋‍♂️ Autores y contribuidores
 - Fernando Franco Zago (Autor) [Github](https://github.com/WildRavenZ) y [LinkedIn](https://www.linkedin.com/in/fernando-franco-zago-066840313/).
+
+#### *Actualizado al 23/06/2025*
