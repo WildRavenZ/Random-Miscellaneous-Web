@@ -66,7 +66,7 @@ Este proyecto está bajo la licencia [MIT](LICENSE).
 
 ## 📈 Estado del proyecto
 ### 1.2.0 (Versión actual):
-- Ahora es posible interactuar con los datos generados, al poder copiar dichos elementos o poder realizar una busqueda en internet.
+- Ahora es posible interactuar con los datos generados, al poder copiar dichos elementos o poder realizar una búsqueda en internet.
 - El sitio ya responde con una pantalla de carga en caso de ser necesario.
 - Agregadas funcionalidades con JS para un uso más dinámico del sitio.
 - Se modificaron y arreglaron las vistas de los elementos generables.
