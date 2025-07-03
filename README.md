@@ -1,4 +1,4 @@
-# 🌐 Random Miscellaneous Web [1.1.0]
+# 🌐 Random Miscellaneous Web [1.2.0]
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)
@@ -65,17 +65,26 @@ No requiere instalación ni entorno de desarrollo, ya que todo se ejecuta desde 
 Este proyecto está bajo la licencia [MIT](LICENSE).
 
 ## 📈 Estado del proyecto
-### 1.1.0 (Versión actual):
+### 1.2.0 (Versión actual):
+- Ahora es posible interactuar con los datos generados, al poder copiar dichos elementos o poder realizar una busqueda en internet.
+- El sitio ya responde con una pantalla de carga en caso de ser necesario.
+- Agregadas funcionalidades con JS para un uso más dinámico del sitio.
+- Se modificaron y arreglaron las vistas de los elementos generables.
+- Se arregló el error que impedía el uso correcto de BarajaAleatoria.
+- Se cambió el dropdown de Generadores en la barra de navegación.
+- Se modificó la documentación y el README.
+
+### 1.1.0:
 - Ya estan disponibles las nuevas funciones de la API, tales como:
     - Nombre aleatorio.
     - Emoji aleatorio.
     - Carácter aleatorio.
     - País aleatorio.
-- Se ha cambiado la documentación y el README.
+- Se modificó la documentación y el README.
 ### 1.0.0:
 - Sitio web creado y hosteado en GitHub Pages.
 
 ## 🙋‍♂️ Autores y contribuidores
 - Fernando Franco Zago (Autor) [Github](https://github.com/WildRavenZ) y [LinkedIn](https://www.linkedin.com/in/fernando-franco-zago-066840313/).
 
-#### *Actualizado al 23/06/2025*
+#### *Actualizado al 02/07/2025*
