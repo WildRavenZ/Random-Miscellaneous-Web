@@ -1,4 +1,4 @@
-# 🌐 Random Miscellaneous Web [1.2.0]
+# 🌐 Random Miscellaneous Web [1.2.1]
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)
@@ -65,7 +65,12 @@ No requiere instalación ni entorno de desarrollo, ya que todo se ejecuta desde 
 Este proyecto está bajo la licencia [MIT](LICENSE).
 
 ## 📈 Estado del proyecto
-### 1.2.0 (Versión actual):
+### 1.2.1 (Versión actual):
+- Se adaptaron los formularios de entradas de datos en las funciones cuyas APIs fueron adaptadas, como País Aleatorio y Hora Aleatoria.
+- Se arreglaron errores varios relacionados a las vistas html.
+- Se adaptó un estilo más amigable para sitio móvil de los generadores en la barra de navegación.
+- Se modificó la documentación y el README.
+### 1.2.0:
 - Ahora es posible interactuar con los datos generados, al poder copiar dichos elementos o poder realizar una búsqueda en internet.
 - El sitio ya responde con una pantalla de carga en caso de ser necesario.
 - Agregadas funcionalidades con JS para un uso más dinámico del sitio.
@@ -87,4 +92,4 @@ Este proyecto está bajo la licencia [MIT](LICENSE).
 ## 🙋‍♂️ Autores y contribuidores
 - Fernando Franco Zago (Autor) [Github](https://github.com/WildRavenZ) y [LinkedIn](https://www.linkedin.com/in/fernando-franco-zago-066840313/).
 
-#### *Actualizado al 02/07/2025*
+#### *Actualizado al 07/07/2025*
